@@ -1,3 +1,5 @@
+The project is not complete, while there are several functionalities I wanna add - to complete the file handeling for structured data. Base functions like SplitAll are still useful for academic management software using Files for data instead of SQL. In a more advance form, the structured data should be like Pandas dataframe or xlsx files. Vector can also be used for this, but I wanted to develop it using dynamic memory objects for more flexibility in operations. 
+
 # C++ File Manipulation
 The program files attached handle files as a database, to perform operations like reading with multiple 'where' condition, joining, filtering (like excel), reading and deleting.
 
